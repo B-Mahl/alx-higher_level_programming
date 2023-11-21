@@ -1,0 +1,13 @@
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE-specific
+.idea/
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
