@@ -3,7 +3,9 @@
 # Banele Mahlangu <banelemahlangu@gmail.com>
 """Define a class Square."""
 
+
 class Square:
+
     """Represnt a new Square.
 
     Args:
