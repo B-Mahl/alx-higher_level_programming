@@ -53,7 +53,7 @@ class Rectangle:
         else:
             return ((self.__width * 2) + (self.__height * 2))
 
-    @classmeethod
+    @classmethod
     def square(cls, size=0):
         """ Return new rectangle with width and height equal to size """
         return cls(size, size)
